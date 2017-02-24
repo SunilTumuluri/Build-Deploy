@@ -1,0 +1,2 @@
+#!/bin/sh
+./node_modules/.bin/mocha /home/ubuntu/Build-Deploy/test/test.js
